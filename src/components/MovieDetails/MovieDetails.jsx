@@ -3,9 +3,7 @@ import { useEffect, useState } from "react";
 import { fetchMovieDetails } from "../api";
 import styles from './MovieDetails.module.css';
 
-// Import the Cast and Reviews components
-import { Cast } from "../Cast/Cast";  
-import { Reviews } from "../Reviews/Reviews";
+
 
 export const MovieDetails = () => {
   const { movieId } = useParams();
