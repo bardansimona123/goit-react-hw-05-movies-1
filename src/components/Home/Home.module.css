@@ -1,0 +1,15 @@
+/* Home.module.css */
+.title {
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+  .movieList {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .movieItem {
+    margin-bottom: 10px;
+  }
+  

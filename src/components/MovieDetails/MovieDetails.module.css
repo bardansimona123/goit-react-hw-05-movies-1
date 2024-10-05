@@ -1,0 +1,86 @@
+
+.container {
+    padding: 20px;
+  }
+  
+  .backButton {
+    font-size: 0.8rem;
+    background: none;
+    border: none;
+    color: blue;
+    margin-bottom: 20px;
+    cursor: pointer;
+  }
+  
+  .movieDetailsWrapper {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .poster {
+    max-width: 300px;
+  }
+  
+  .details {
+    flex-grow: 1;
+  }
+  
+  .movieTitle {
+    font-weight: bold;
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .userScore {
+    margin-top: 5px;
+    font-weight: bold;
+  }
+  
+  .overviewTitle {
+    margin-top: 20px;
+    font-weight: bold;
+  }
+  
+  .overviewContent {
+    margin-bottom: 20px;
+  }
+  
+  .genresTitle {
+    font-weight: bold;
+    margin-top: 20px;
+  }
+  
+  .genresContent {
+    margin-bottom: 20px;
+  }
+  
+  .borderBottom {
+    border-bottom: 2px solid #ddd;
+    margin: 20px 0;
+  }
+  
+  .additionalInfo {
+    font-weight: normal;
+    font-size: 1rem;
+    margin-top: 20px;
+  }
+  
+  .additionalLinks {
+    list-style: none;
+    padding-left: 0;
+  }
+  
+  .additionalLinks li {
+    margin-bottom: 10px;
+  }
+  
+  .additionalLink {
+    text-decoration: none;
+    color: blue;
+  }
+  
+  .additionalLink:hover {
+    text-decoration: underline;
+  }
+  
+  

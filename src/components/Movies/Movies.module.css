@@ -1,0 +1,24 @@
+/* Movies.module.css */
+.searchForm {
+    margin-bottom: 20px;
+  }
+  
+  .searchInput {
+    padding: 10px;
+    margin-right: 10px;
+    width: 200px;
+  }
+  
+  .searchButton {
+    padding: 10px;
+  }
+  
+  .movieList {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .movieItem {
+    margin-bottom: 10px;
+  }
+  
